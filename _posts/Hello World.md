@@ -1,15 +1,16 @@
 ---
 title: "Hello World"
-date: 2026-05-21 07:00:00 -0700
-path: _post/2026-05-22-Hello World.md
-categories: [posts]
-tags: [hello]
-description: "A first blog post"
+date: 2026-05-22 07:02:20 -0700
+slug: "2026-05-23-hello-world"
+categories: [news]
+tags: [ghpages]
+description: "Hello World"
 image:
   path: /assets/img/
   alt: ""
 share: true
 ---
+
 
 ## Hello World!
 
