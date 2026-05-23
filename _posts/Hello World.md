@@ -1,13 +1,7 @@
 ---
-title: "Hello World"
-date: 2026-05-22 07:02:20 -0700
-slug: "2026-05-23-hello-world"
-categories: [news]
-tags: [ghpages]
-description: "Hello World"
-image:
-  path: /assets/img/
-  alt: ""
+title: Hello World
+date: 2026-05-23 01:07:52 -0700
+slug: 2026-05-23-hello-world
 share: true
 ---
 
